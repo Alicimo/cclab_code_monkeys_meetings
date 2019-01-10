@@ -1,2 +1,1 @@
 # cclab_code_monkeys_meetings
-# cclab_code_monkeys_meetings
